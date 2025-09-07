@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vihaankulkarni29/vihaankulkarni29/main/bioinfo_banner_amr.png" alt="Bioinformatics and AMR Banner" width="100%">
-</div>
 
 # Hi there, I'm Vihaan Kulkarni 👋
 
@@ -44,16 +41,15 @@ My work applies computational methods to key areas of infectious disease researc
 Here are some projects that demonstrate my skills in pipeline development and machine learning for biological data analysis:
 
 * <div align="center">
-        <h4><a href="https://github.com/vihaankulkarni29/sepi2.0">SEPI 2.0: Automated Single-Cell RNA-Seq Pipeline</a></h4>
+        <h4><a href="https://github.com/vihaankulkarni29/sepi2.0">SEPI 2.0: Antibiotic Sensitive Efflux Protein Identifier
     </div>
-    An automated and reproducible Nextflow pipeline for end-to-end analysis of single-cell RNA sequencing data. It processes raw reads, performs quality control, clustering (using Seurat), and differential expression analysis, enabling researchers to study complex cellular heterogeneity and host responses to infection.
-    * **Technologies:** Nextflow, R, Seurat, Bash
+    A versatile bioinformatics platform for the automated acquisition of reference protein sequences from NCBI. SEPI 2.0 empowers researchers to build high-quality, custom reference datasets for any bacteria and any protein set with minimal effort and maximum reproducibility.
     * **Focus:** Transcriptomics, Pipeline Automation, Reproducible Science
 
 * <div align="center">
-        <h4><a href="https://github.com/vihaankulkarni29/SubScan">SubScan: Enzyme Substrate Specificity Prediction</a></h4>
+        <h4><a href="https://github.com/vihaankulkarni29/SubScan">SubScan: Polymorphisim Finder</a></h4>
     </div>
-    A deep learning model designed to predict enzyme substrate specificity by identifying Enzyme Commission (EC) numbers from protein sequences. This tool aids in functional annotation of uncharacterized proteins and has direct applications in drug development by helping to identify novel therapeutic targets in pathogens.
+     SubScan is a lightweight Python tool designed to extract amino acid substitutions from EMBOSS alignment files. Built with Biopython and ready to run in Google Colab, it simplifies comparison between protein sequences—especially for AMR gene variation studies across lab isolates
     * **Technologies:** Python, Deep Learning, Protein Sequence Analysis
     * **Focus:** Computational Biology, Drug Target Identification, Machine Learning
 
