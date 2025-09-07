@@ -44,14 +44,12 @@ Here are some projects that demonstrate my skills in pipeline development and ma
         <h4><a href="https://github.com/vihaankulkarni29/sepi2.0">SEPI 2.0: Antibiotic Sensitive Efflux Protein Identifier
     </div>
     A versatile bioinformatics platform for the automated acquisition of reference protein sequences from NCBI. SEPI 2.0 empowers researchers to build high-quality, custom reference datasets for any bacteria and any protein set with minimal effort and maximum reproducibility.
-    * **Focus:** Transcriptomics, Pipeline Automation, Reproducible Science
 
 * <div align="center">
         <h4><a href="https://github.com/vihaankulkarni29/SubScan">SubScan: Polymorphisim Finder</a></h4>
     </div>
      SubScan is a lightweight Python tool designed to extract amino acid substitutions from EMBOSS alignment files. Built with Biopython and ready to run in Google Colab, it simplifies comparison between protein sequences—especially for AMR gene variation studies across lab isolates
-    * **Technologies:** Python, Deep Learning, Protein Sequence Analysis
-    * **Focus:** Computational Biology, Drug Target Identification, Machine Learning
+    
 
 ---
 
